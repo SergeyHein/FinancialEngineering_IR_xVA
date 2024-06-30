@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode-remote.remote-wsl",
+        "ms-toolsai.jupyter",
+        "github.copilot",
+        "serayuzgur.crates",
+        "1yib.rust-bundle",
+        "redhat.vscode-yaml",
+        "ms-vscode.powershell",
+        "ms-azuretools.vscode-docker",
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "ms-python.isort",
+        "alexcvzz.vscode-sqlite",
+        "qwtel.sqlite-viewer",
+        "googlecloudtools.cloudcode"
+    ]
+}

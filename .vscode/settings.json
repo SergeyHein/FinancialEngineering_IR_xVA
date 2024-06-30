@@ -1,0 +1,16 @@
+{
+     // https://code.visualstudio.com/docs/getstarted/settings
+     // https://code.visualstudio.com/docs/editor/variables-reference
+     // https://code.visualstudio.com/docs/python/settings-reference
+     // shortcuts: https://code.visualstudio.com/docs/getstarted/keybindings
+     // Ctrl+Shift+P -> Command Palette
+     // Ctrl - , -> Settings
+     //    User settings are global across all Visual Studio Code instances
+     //       %APPDATA%\Code\User\settings.json
+     //    Workspace settings are specific to the currently opened folder
+     // https://code.visualstudio.com/docs/editor/multi-root-workspaces
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "files.exclude": {
+        "**/__pycache__":true,
+    },
+}
