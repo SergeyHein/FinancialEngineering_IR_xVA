@@ -130,4 +130,4 @@ def mainCalculation():
     plt.ylabel('Option price for a given strike, K')
     plt.grid()
                        
-mainCalculation()
+# mainCalculation()
