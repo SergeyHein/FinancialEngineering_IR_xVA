@@ -75,4 +75,4 @@ def mainCalculation():
     plt.ylabel("R(t)")
     plt.legend(legend)
     
-# mainCalculation()
+mainCalculation()
